@@ -1,2 +1,2 @@
 # Neutrophils_in_CRSwNP
-Neutrophils in Chronic Rhinosinusitis with Nasal Polyps
+The scRNA-sequencing data of neutrophils in chronic rhinosinusitis with nasal polyps
